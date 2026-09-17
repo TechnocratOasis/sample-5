@@ -1,0 +1,195 @@
+@font-face {
+  font-family: 'flaticon-hotel';
+  src:  url('../fonts/flaticon-hotela8ae.eot?gvwncy');
+  src:  url('../fonts/flaticon-hotela8ae.eot?gvwncy#iefix') format('embedded-opentype'),
+    url('../fonts/flaticon-hotela8ae.ttf?gvwncy') format('truetype'),
+    url('../fonts/flaticon-hotela8ae.woff?gvwncy') format('woff'),
+    url('../fonts/flaticon-hotela8ae.svg?gvwncy#flaticon-hotel') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="flaticon-hotel-"], [class*=" flaticon-hotel-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'flaticon-hotel' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-hotel-001-rocking-chair:before {
+  content: "\f101";
+}
+.flaticon-hotel-002-drawers:before {
+  content: "\f102";
+}
+.flaticon-hotel-003-light:before {
+  content: "\f103";
+}
+.flaticon-hotel-004-partition:before {
+  content: "\f104";
+}
+.flaticon-hotel-005-bathroom:before {
+  content: "\f105";
+}
+.flaticon-hotel-006-kitchen:before {
+  content: "\f106";
+}
+.flaticon-hotel-007-sofa:before {
+  content: "\f107";
+}
+.flaticon-hotel-008-hangers:before {
+  content: "\f108";
+}
+.flaticon-hotel-009-sofa-1:before {
+  content: "\f109";
+}
+.flaticon-hotel-010-date:before {
+  content: "\f10a";
+}
+.flaticon-hotel-011-chair:before {
+  content: "\f10b";
+}
+.flaticon-hotel-012-lamp:before {
+  content: "\f10c";
+}
+.flaticon-hotel-013-bed:before {
+  content: "\f10d";
+}
+.flaticon-hotel-014-sofa-2:before {
+  content: "\f10e";
+}
+.flaticon-hotel-015-table:before {
+  content: "\f10f";
+}
+.flaticon-hotel-016-bed-1:before {
+  content: "\f110";
+}
+.flaticon-hotel-017-chair-1:before {
+  content: "\f111";
+}
+.flaticon-hotel-018-table-1:before {
+  content: "\f112";
+}
+.flaticon-hotel-019-table-2:before {
+  content: "\f113";
+}
+.flaticon-hotel-020-hanger:before {
+  content: "\f114";
+}
+.flaticon-hotel-021-table-3:before {
+  content: "\f115";
+}
+.flaticon-hotel-022-pool:before {
+  content: "\f116";
+}
+.flaticon-hotel-023-customer-service:before {
+  content: "\f117";
+}
+.flaticon-hotel-024-bed-2:before {
+  content: "\f118";
+}
+.flaticon-hotel-025-travel:before {
+  content: "\f119";
+}
+.flaticon-hotel-026-wifi:before {
+  content: "\f11a";
+}
+.flaticon-hotel-027-breakfast:before {
+  content: "\f11b";
+}
+.flaticon-hotel-028-swimming-pool:before {
+  content: "\f11c";
+}
+.flaticon-hotel-029-car:before {
+  content: "\f11d";
+}
+.flaticon-hotel-030-weights:before {
+  content: "\f11e";
+}
+.flaticon-hotel-032-spa:before {
+  content: "\f11f";
+}
+.flaticon-hotel-033-sofa-3:before {
+  content: "\f120";
+}
+.flaticon-hotel-034-quotation:before {
+  content: "\f121";
+}
+.flaticon-hotel-035-airplane:before {
+  content: "\f122";
+}
+.flaticon-hotel-036-swimming-pool-1:before {
+  content: "\f123";
+}
+.flaticon-hotel-037-fast-food:before {
+  content: "\f124";
+}
+.flaticon-hotel-cart:before {
+  content: "\e900";
+}
+.flaticon-hotel-search:before {
+  content: "\e901";
+}
+.flaticon-hotel-icon-11:before {
+  content: "\e902";
+}
+.flaticon-hotel-icon-10:before {
+  content: "\e903";
+}
+.flaticon-hotel-call:before {
+  content: "\e904";
+}
+.flaticon-hotel-icon-9:before {
+  content: "\e905";
+}
+.flaticon-hotel-icon-8:before {
+  content: "\e906";
+}
+.flaticon-hotel-email:before {
+  content: "\e907";
+}
+.flaticon-hotel-location:before {
+  content: "\e908";
+}
+.flaticon-hotel-icon-7:before {
+  content: "\e909";
+}
+.flaticon-hotel-icon-6:before {
+  content: "\e90a";
+}
+.flaticon-hotel-icon-5:before {
+  content: "\e90b";
+}
+.flaticon-hotel-quote:before {
+  content: "\e90c";
+}
+.flaticon-hotel-icon-4:before {
+  content: "\e90d";
+}
+.flaticon-hotel-icon-3:before {
+  content: "\e90e";
+}
+.flaticon-hotel-icon-2:before {
+  content: "\e90f";
+}
+.flaticon-hotel-icon-1:before {
+  content: "\e910";
+}
+.flaticon-hotel-arrow-right:before {
+  content: "\e911";
+}
+.flaticon-hotel-user:before {
+  content: "\e912";
+}
+.flaticon-hotel-calender:before {
+  content: "\e913";
+}
